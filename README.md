@@ -4,7 +4,7 @@ A professional, high-fidelity static landing page demo built to showcase pest co
 
 ## 🚀 Live Demo
 
-You can view the live demonstration here: [Live Demo](https://yuvaraj-dudukuru.github.io/pest_control/)
+You can view the live demonstration here: [Live Demo](https://asncreativeagency-web.github.io/safepest/)
 
 ## ✨ Features
 
